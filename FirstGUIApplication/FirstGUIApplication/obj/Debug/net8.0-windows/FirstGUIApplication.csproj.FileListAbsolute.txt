@@ -1,0 +1,16 @@
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\bin\Debug\net8.0-windows\FirstGUIApplication.exe
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\bin\Debug\net8.0-windows\FirstGUIApplication.deps.json
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\bin\Debug\net8.0-windows\FirstGUIApplication.runtimeconfig.json
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\bin\Debug\net8.0-windows\FirstGUIApplication.dll
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\bin\Debug\net8.0-windows\FirstGUIApplication.pdb
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.csproj.GenerateResource.cache
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.AssemblyInfoInputs.cache
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.AssemblyInfo.cs
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.csproj.CoreCompileInputs.cache
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.dll
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\refint\FirstGUIApplication.dll
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.pdb
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.genruntimeconfig.cache
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\ref\FirstGUIApplication.dll
+C:\Users\ozzyj\OneDrive\Desktop\C#\FirstGUIApplication\FirstGUIApplication\obj\Debug\net8.0-windows\FirstGUIApplication.Sign_Up_Form.resources
